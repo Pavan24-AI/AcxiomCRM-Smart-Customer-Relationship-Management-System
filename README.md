@@ -6,6 +6,10 @@ AcxiomCRM is a web-based CRM application for sales organizations. The system is 
 - Manager – Team CRM, pipeline, follow-up, and reporting management
 - Sales Executive – Management of assigned customers, leads, opportunities, follow-ups, and activities
 The project specification defines a layered architecture, client-side and server-side validation, secure authentication, role-based authorization, audit logging, REST APIs, dashboards, and reporting.
+🚀 Working Prototype
+🔗 Live Demo: AcxiomCRM Working Prototype
+The working prototype demonstrates the implemented CRM frontend screens, including customer management, lead management, lead conversion, follow-ups, and CRM navigation. Functional verification and validation testing are still in progress.
+
 🚧 Current Development Status
 Area	Status
 CRM Frontend Screens	✅ Completed
