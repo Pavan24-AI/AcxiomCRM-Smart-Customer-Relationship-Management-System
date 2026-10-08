@@ -11,6 +11,7 @@ REST APIs, dashboards, and reporting.
 
 🚀 Working Prototype
 🔗 Live Demo: https://project-interface-creator.lovable.app
+
 The working prototype demonstrates the implemented CRM frontend screens, including customer management, lead management, lead conversion, follow-ups, and CRM navigation. Functional verification and validation testing are still in progress.
 
 🚧 Current Development Status
