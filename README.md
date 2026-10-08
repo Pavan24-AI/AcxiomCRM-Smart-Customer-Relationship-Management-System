@@ -1,5 +1,6 @@
 AcxiomCRM
 A role-based Customer Relationship Management (CRM) application designed to manage customers, leads, opportunities, follow-ups, activities, users, roles, audit logs, APIs, and reporting.
+
 📌 Project Overview
 AcxiomCRM is a web-based CRM application for sales organizations. The system is designed around three primary roles:
 - Admin – Full system, CRM, user/role, audit, and reporting administration
